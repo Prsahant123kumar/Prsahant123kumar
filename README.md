@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **CodeWithMe**
 
-- 🌱 I’m currently learning **Next Js**
-
 - 📫 How to reach me **kumarparshant12540@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
