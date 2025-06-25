@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently pursuing BTech CSE(2023-2027) from MNNIT ALLAHABAD
 
-- 🔭 I’m currently working on **ROZGAR**
+- 🔭 I’m currently working on **CodeWithMe**
 
 - 🌱 I’m currently learning **Next Js**
 
